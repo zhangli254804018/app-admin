@@ -16,7 +16,7 @@
     "build": "npm run build:prod"
   },
   "dependencies": {
-    "axios": "0.18.1",
+    "axios": "0.21.1",
     "element-ui": "2.13.2",
     "js-cookie": "^2.2.1",
     "md5": "^2.2.1",
